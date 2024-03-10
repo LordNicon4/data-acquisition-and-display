@@ -26,12 +26,6 @@ The HTML file (`index.html`) includes Bootstrap for styling, ECharts for chart v
 - Customize the styling and layout of the HTML file as needed.
 - Ensure that the paths to JavaScript files are correctly set within the HTML file.
 
-### Contributors
-
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
-
 ### License
 
 [MIT License ]
