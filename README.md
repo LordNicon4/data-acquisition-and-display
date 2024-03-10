@@ -34,4 +34,4 @@ The HTML file (`index.html`) includes Bootstrap for styling, ECharts for chart v
 
 ### License
 
-[License Information]
+[MIT License ]
